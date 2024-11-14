@@ -1,8 +1,8 @@
 # Java-Transport-AOP
-Java applicaton for adding, deleting, comparing  and displaying three kinds of transport (car, plane, ship) with logger.
+Java application for adding, deleting, comparing  and displaying three kinds of transport (car, plane, ship) with logger.
 
 ## Описание 
-Консольное джава приложение для управления коллекцией сущностей. Есть возможность добавлять, удалять, сравнивать и выводить все типы элемнетов (car, plane, ship) которые наследуются от базового класса Transport.
+Консольное джава приложение для управления коллекцией сущностей. Есть возможность добавлять, удалять, сравнивать и выводить все типы элементов (car, plane, ship) которые наследуются от базового класса Transport.
 
 ## Сборка и запуск
 ### Требования
@@ -10,8 +10,8 @@ Java applicaton for adding, deleting, comparing  and displaying three kinds of t
 - Maven 3.6.0 (или выше)
   
 ### Сборка
-Чтобы собрать приложение, необходимо выполнить слейдующие действия:
-1. Склонируйте репозиторий.
+Чтобы собрать приложение, необходимо выполнить следующие действия:
+1. Скопируйте репозиторий.
 2. Откройте папку с проектом.
 3. Откройте консоль в этой папке и введите команду:
 ```cmd
